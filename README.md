@@ -3,6 +3,6 @@ import EasyPrint
 
 p ('Hello world!')
 
-#or
+# OR
 
 p1 ('Number is ', 23)
